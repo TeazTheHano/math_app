@@ -71,6 +71,5 @@ const styles = StyleSheet.create({
   textStyle: {
     fontWeight: 'bold',
     fontSize: 18,
-    fontFamily: 'Chewy-Regular',
   },
 });
